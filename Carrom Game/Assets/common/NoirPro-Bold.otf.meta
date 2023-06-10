@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 1c6bf564c3512c14eb68ecf6e062755e
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Noir Pro
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: fabe68de502a27647a0b20d77aa0f55b, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
